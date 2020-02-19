@@ -13,7 +13,6 @@ function getData(){
         data = JSON.parse(data);
         students = data.students;
     }
-    getData();
 }
 
 function writeData(printSaved){
@@ -240,4 +239,5 @@ function deleteDatabase(){
     });
 }
 
+getData();
 consoleMenu(true);
