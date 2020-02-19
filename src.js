@@ -13,6 +13,7 @@ function getData(){
         data = JSON.parse(data);
         students = data.students;
     }
+    getData();
 }
 
 function writeData(printSaved){
