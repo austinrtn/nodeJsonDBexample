@@ -1,3 +1,9 @@
+/*
+Name: Node.js-Json Database Example
+Author: Austin Kolongowski
+Date: 02/19/2020
+*/
+
 /*/////////////////
     JSON PROCESSOR
 /////////////////*/
