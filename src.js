@@ -69,7 +69,7 @@ function consoleMenu(clear){
 ////////*///
 
 function logTable(){
-
+    getData();
     if(students.length <= 0){
         consoleMenu(true);
         console.log("Looks like you don't have any data yet.")
